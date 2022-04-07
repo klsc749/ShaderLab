@@ -42,10 +42,14 @@
      <None Include="Assets\Shader\Light\BlinnPhong.shader" />
      <None Include="Assets\Shader\Textures\MaskTexture.shader" />
      <None Include="Assets\Shader\Tranparent\AlphaTest.shader" />
+     <None Include="Assets\Shader\Tranparent\AlphaBlendBothSide.shader" />
      <None Include="Assets\Shader\Light\DiffuseVertexLevel.shader" />
      <None Include="Assets\Shader\Light\DiffuseFragmentLevel.shader" />
      <None Include="Assets\Shader\Textures\RampTexture.shader" />
+     <None Include="Assets\Shader\Tranparent\AlphaBlendZWrite.shader" />
+     <None Include="Assets\Shader\Tranparent\AlphaBlend.shader" />
      <None Include="Assets\Shader\Chapter5.shader" />
+     <None Include="Assets\Shader\Tranparent\AlphaTestBothSide.shader" />
      <None Include="Assets\Shader\Light\SpecularVertexLevel.shader" />
      <None Include="Assets\Shader\Light\SpecularFragmentLevel.shader" />
      <None Include="Assets\Shader\Light\HalfLambert.shader" />
